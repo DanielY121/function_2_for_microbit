@@ -1,5 +1,6 @@
 {
     "name": "function_2_for_micro:bit",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
